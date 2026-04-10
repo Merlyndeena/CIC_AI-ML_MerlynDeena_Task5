@@ -7,9 +7,9 @@ This module focuses on advanced Python concepts used in AI, including string ope
 
 🧠 Topics Covered
 
-Strings (properties, indexing, slicing),
-String methods (upper, lower, strip, replace),
-Split and join,
+-Strings (properties, indexing, slicing),
+-String methods (upper, lower, strip, replace),
+-Split and join,
 Checking data in strings,
 Nested data structures (list of lists, list of dictionaries),
 Accessing and looping nested data,
